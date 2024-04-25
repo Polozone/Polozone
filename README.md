@@ -5,10 +5,18 @@
 
 November 2021 to April 2022 -> Learning C with creating 2d games, multithreading, algorithm of integer sort by stack, redirection and multi-pipes recoding the pipe function used by bash and others...
 
-April 2022 to July 2022 -> Currently developping a full-stack Website with a back-office interface to let the user manage the style and the content of his website. We use HTML, SCSS, vanilla PHP and Javascript.
+April 2022 to July 2022 -> Developping a full-stack Website (aado-media.com) with a back-office interface to let the user manage the style and the content of his website. We use HTML, SCSS, vanilla PHP and Javascript for DOM manipulation.
 
 July 2022 -> Programming a small Shell in C with a coworker.
 
-Sept 2022 -> Programming a "3d games" using Raycasting.
+Sept 2022 -> Programming a "fake 3d games" using Raycasting in C.
 
 Dec  2022 -> Learning C++.
+
+Febr. 2023 -> Programming an IRC server (RFC1459) in C++.
+
+June 2023 -> Programming a web-application (React/Typescript/NestJS/Prisma/socket-io) : implementing a chat application (with basic functionalities like creating and deleting channels, add/remove admins, managing user privileges, receive notifications from socket-server...)
+
+Febr. 2024 to July 2024 -> Intership at Ineo Nucleaire (embedded programming on stm32 microcontroller)
+
+April 2024 -> Comitter on botdog.co
