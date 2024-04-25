@@ -17,6 +17,6 @@ Febr. 2023 -> Programming an IRC server (RFC1459) in C++.
 
 June 2023 -> Programming a web-application (React/Typescript/NestJS/Prisma/socket-io) : implementing a chat application (with basic functionalities like creating and deleting channels, add/remove admins, managing user privileges, receive notifications from socket-server...)
 
-Febr. 2024 to July 2024 -> Intership at Ineo Nucleaire (embedded programming on stm32 microcontroller)
+Febr. 2024 to July 2024 -> Intership at Ineo Nucleaire (embedded programmation on stm32 microcontroller) using STWIN.box hardware. Software written in C.
 
 April 2024 -> Comitter on botdog.co
