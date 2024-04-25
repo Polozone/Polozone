@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Polozone
-- 👀 I’m interested in C, Js, PHP...
+- 👀 I’m interested in C, C++, Js, PHP...
 - 🌱 I’m currently learning C, C++
 - 💞️ I’m looking to collaborate on multiples projects
 
