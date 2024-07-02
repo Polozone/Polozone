@@ -19,4 +19,4 @@ June 2023 -> Programming a web-application (React/Typescript/NestJS/Prisma/socke
 
 Febr. 2024 to July 2024 -> Intership at Ineo Nucleaire (embedded programmation on stm32 microcontroller) using STWIN.box hardware. Software written in C.
 
-April 2024 -> Comitter on botdog.co (NextJS, Typescript, tRPC, bullMQ, Prisma, Tanstack Query...)
+April 2024 -> Comitter on botdog.co (NextJS, Typescript, Zustand, tRPC, bullMQ, Prisma, Tanstack Query...)
