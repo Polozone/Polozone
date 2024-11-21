@@ -21,4 +21,4 @@ Febr. 2024 to July 2024 -> Intership at Ineo Nucleaire (embedded programmation o
 
 April 2024 -> Comitter on botdog.co (NextJS, Typescript, Zustand, tRPC, bullMQ, Prisma, Tanstack Query...)
 
-Sept 2024 to October 2024 -> Freelance for Inéo Nucléaire (Backend with Java)
+Sept 2024 to October 2024 -> In contract for Inéo Nucléaire (Backend with Java)
