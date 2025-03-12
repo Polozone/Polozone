@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Polozone
 - 👀 I’m interested in C, C++, Js, PHP...
-- 🌱 I’m currently learning C, C++
 - 💞️ I’m looking to collaborate on multiples projects
 
 November 2021 to April 2022 -> Learning C with creating 2d games, multithreading, algorithm of integer sort by stack, redirection and multi-pipes recoding the pipe function used by bash and others...
