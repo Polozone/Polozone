@@ -21,3 +21,7 @@ Febr. 2024 to July 2024 -> Intership at Ineo Nucleaire (embedded programmation o
 April 2024 -> Comitter on botdog.co (NextJS, Typescript, Zustand, tRPC, bullMQ, Prisma, Tanstack Query...)
 
 Sept 2024 to Feb. 2025 -> In contract for Inéo Nucléaire (Backend with Java)
+
+Feb. 2025 -> Creating saas.paulmulin.fr (boilerplate for SaaS)
+
+April 2025 -> New contract at Otaree (https://www.otaree.com)
